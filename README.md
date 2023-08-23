@@ -12,7 +12,7 @@
 We were assigned the task of revising the index.html and the linked stylesheet (CSS) for a company's website.
 
 ![the code](./assets/images/Screenshot3.jpg)
-![the deployed site](https://justinschoi93.github.io/module-1-challenge-JC93/)
+![the deployed site](https://justinschoi93.github.io/Horiseon-website-revisions-JC93/)
 
 ## User Story (provided)
 
